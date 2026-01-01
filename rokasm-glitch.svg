@@ -1,3 +1,6 @@
+
+ 		    		repeatCount = "indefinite" />
+ 
 				<animate attributeName="height" 
 		    		id = "h"
 		    		dur = "4s"
@@ -21,6 +24,6 @@
 	</defs>
 
 <g>
-	<text x="0" y="100">RokasM</text>
+	<text x="0" y="100">SVG GLITCH</text>
 </g>
 </svg>
