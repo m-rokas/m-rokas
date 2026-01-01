@@ -1,4 +1,4 @@
 ## Hi there 👋
 <p align="center">
-  <img src="/rokasm-glitch.svg" width="500"/>
+  <img src="rokasm-glitch.svg" width="500"/>
 </p>
