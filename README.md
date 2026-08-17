@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://zmfood-site.vercel.app/rm-profile-glitch.svg?v=2" alt="RokasM" width="800">
+  <img src="https://zmfood-site.vercel.app/rm-profile-glitch.svg?v=3" alt="Rokas M. – kuriu ir tobulinu interneto projektus" width="800">
 </p>
 
 # Sveiki, aš Rokas 👋
 
-Kuriu ir tobulinu interneto projektus. Daugiausia dirbu su **TypeScript** ir **JavaScript**, tačiau mano repozitorijose taip pat rasi **PHP**, **Python** ir kitų technologijų projektų.
+Kuriu ir tobulinu interneto sistemas nuo naudotojo sąsajos iki API, duomenų bazės ir diegimo. Dažniausiai dirbu su **TypeScript**, **React**, **Next.js**, **NestJS** ir **PostgreSQL**.
 
 ## Ką kuriu dabar
 
@@ -14,7 +14,9 @@ Kuriu ir tobulinu interneto projektus. Daugiausia dirbu su **TypeScript** ir **J
 
 ## Pagrindinės technologijos
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `PHP` · `Python`
+- **Frontend:** `TypeScript`, `JavaScript`, `React`, `Next.js`
+- **Backend:** `NestJS`, `Node.js`, `PHP`, `Python`
+- **Duomenys ir infrastruktūra:** `PostgreSQL`, `Prisma`, `Supabase`, `Docker`, `Vercel`
 
 ## Susisiekime
 
