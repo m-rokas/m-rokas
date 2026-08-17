@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./rokasm-glitch.svg" alt="RokasM" width="800">
+  <img src="https://zmfood-site.vercel.app/rm-profile-glitch.svg?v=2" alt="RokasM" width="800">
 </p>
 
 # Sveiki, aš Rokas 👋
